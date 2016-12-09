@@ -13,7 +13,7 @@
 			"name": "Robson Sampaio",
 			"email": "robsonsamp@gmail.com",
 			"role": "Engenheiro de Software"
-		},
+		}
 	],
 	"require": {
 		"php": ">=5.4.0"
